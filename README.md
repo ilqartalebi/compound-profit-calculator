@@ -13,5 +13,9 @@ y = is the number of cycles the profit repeats
 
 **please be aware that this program is just calculating ideal and not achievable profit curve
   trade with risk management at your own risk.
+
+// contact :
+you can Dm me any time at telegram @ilqar_talebi
+email: ilqar.talebi@gmail.com
   
 hope it helps :>

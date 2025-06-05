@@ -10,7 +10,6 @@ m = the money youre engageing
 x = youre estimated profit for example: 70% gaine==> 0.7
 y = is the number of cycles the profit repeats
 
-the gui work is for friend of mine chatgpt ;) 
 
 **please be aware that this program is just calculating ideal and not achievable profit curve
   trade with risk management at your own risk.

@@ -1,5 +1,5 @@
 # compound-profit-calculator
-based on py3.11
+
 
 **pyqt6 is needed for running this proggram
 

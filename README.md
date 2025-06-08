@@ -1,6 +1,5 @@
 # compound-profit-calculator
 
-
 **pyqt6 is needed for running this proggram
 
 
@@ -15,7 +14,7 @@ y = is the number of cycles the profit repeats
   trade with risk management at your own risk.
 
 // contact me :
-you can Dm me any time at telegram @ilqar_talebi
-email: ilqar.talebi@gmail.com
+you can Dm me any time via telegram : @ilqar_talebi
+via email: ilqar.talebi@gmail.com
   
 hope it helps :>

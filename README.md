@@ -15,6 +15,8 @@ y = is the number of cycles the profit repeats
 
 // contact me :
 you can Dm me any time via telegram : @ilqar_talebi
+
+
 via email: ilqar.talebi@gmail.com
   
 hope it helps :>

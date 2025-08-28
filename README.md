@@ -1,3 +1,6 @@
+شنبه 13:00 تا 15:40 ایلقار طالبی
+
+
 # compound-profit-calculator
 
 **pyqt6 is needed for running this proggram
